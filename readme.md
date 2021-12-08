@@ -9,8 +9,10 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 >รหัสนักศึกษา 610112418010
 
 ###Link LAB
-[LAB1](https://github.com/tatitakan/4134901-2-64-verison2/tree/master/LAB1)
-[LAB2](https://github.com/tatitakan/4134901-2-64-verison2/tree/master/LAB2)
+[LAB1](https://github.com/tatitakan/4134901-2-64/tree/master/LAB1)
+[LAB2](https://github.com/tatitakan/4134901-2-64/tree/master/LAB2)
+[LAB3](https://github.com/tatitakan/4134901-2-64/tree/master/LAB3)
+[LAB4](https://github.com/tatitakan/4134901-2-64/tree/master/LAB3/hello-react/src/components)
 
 ###run
 **LAB1**
@@ -24,3 +26,10 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 **LAB2**
 
 >npm update
+
+**LAB3**
+
+npm start
+
+**LAB4**
+Car.js List.js Table.js Ul.js
