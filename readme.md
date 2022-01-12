@@ -15,7 +15,7 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 [LAB4](https://github.com/tatitakan/4134901-2-64/tree/master/LAB3/hello-react/src/components)
 [LAB6](https://github.com/tatitakan/4134901-2-64/tree/master/LAB6)
 [LAB7](https://github.com/tatitakan/4134901-2-64/tree/master/LAB7)
-[LAB7](https://github.com/tatitakan/4134901-2-64/tree/master/LAB8)
+[LAB8](https://github.com/tatitakan/4134901-2-64/tree/master/LAB8)
 
 ###run
 **LAB1**
