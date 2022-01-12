@@ -40,3 +40,16 @@ Car.js List.js Table.js Ul.js
 **LAB6**
 
 go docker
+
+**LAB7**
+
+go structs
+
+**LAB8**
+
+struct-backend
+-controller
+-router
+-config DB
+-model
+
