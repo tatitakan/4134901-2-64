@@ -4,7 +4,8 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 **คณะวิทยาศาสตร์**
 
 ###นายททิทากานต์ อาจทวีกุล
-![นายททิทากานต์ อาจทวีกุล](https://lh3.googleusercontent.com/a-/AOh14GjhBiHG5ruifppw2DEo0u2kncm_3OzeXiDQHVpqJg=s360-p-rw-no)
+![นายททิทากานต์ อาจทวีกุล]
+(https://lh3.googleusercontent.com/a-/AOh14GjhBiHG5ruifppw2DEo0u2kncm_3OzeXiDQHVpqJg=s360-p-rw-no)
 
 >รหัสนักศึกษา 610112418010
 
